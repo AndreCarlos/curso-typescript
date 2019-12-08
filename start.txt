@@ -1,0 +1,5 @@
+*** subir browser testar códigos ***
+
+dentro do diretorio do projeto digitar no terminal => npm start
+
+para monitorar alterações no diretorio do projeto, digite no terminal ==> tsc -w
